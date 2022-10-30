@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @emaguidhir
 
-Introduction
+Spring-Boot
 =====
-
-Let me share my passion with you all. Below is a link to my Spring-Boot Series of Applications
 
 -   [Simple-CRUD](https://github.com/emaguidhir/Spring-CRUD)
 
