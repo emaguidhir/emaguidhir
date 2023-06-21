@@ -3,7 +3,7 @@
 Spring-Boot
 =====
 
--   [Simple-CRUD](https://github.com/emaguidhir/stag-crud)
+-   [Stag-Crud](https://github.com/emaguidhir/stag-crud)
 
 <!---
 emaguidhir/emaguidhir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
